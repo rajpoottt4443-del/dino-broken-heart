@@ -1,0 +1,6 @@
+{
+  "name": "Dino: Broken Heart",
+  "description": "A premium retro arcade endless runner where a lonely dinosaur sprints 500m across a perilous desert to meet his girlfriend, only to uncover a hilarious heartbreak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
